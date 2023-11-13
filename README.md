@@ -20,11 +20,11 @@ The raw data is available in the `data/` directory.
 
 ## Data Analysis & Transformation
 
-The Jupyter notebooks in the notebooks/ directory outline the process of data analysis, transformation, and cleaning using Pandas. 
+The Jupyter notebooks in the `notebooks/` directory outline the process of data analysis, transformation, and cleaning using Pandas. 
 
 ## Interactive Dashboards
 
-The interactive dashboards were created using Microsoft Power BI and can be found in the dashboards/ directory. These dashboards provide a visual representation of the insights derived from the data.
+The interactive dashboards were created using Microsoft Power BI and can be found in the `dashboards/` directory. These dashboards provide a visual representation of the insights derived from the data.
 
 ## Acknowledgments
 
