@@ -20,7 +20,7 @@ The raw data is available in the `data/` directory.
 
 ## Data Analysis & Transformation
 
-The Jupyter notebooks in the `notebooks/` directory outline the process of data analysis, transformation, and cleaning using Pandas. 
+The Jupyter notebooks in the `notebooks/` directory outline the process of data preprocessing using 'Python', data analysis, transformation(using both Python and PowerBI Query Editor), and cleaning using Pandas. 
 
 ## Interactive Dashboards
 
